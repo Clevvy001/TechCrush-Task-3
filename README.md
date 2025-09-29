@@ -18,13 +18,13 @@ The dataset consists of 4 CSV files:
 
 🔍 Key Analysis Performed
 
-✅ Total Revenue / Sales
-✅ Total Quantity of Pizzas Sold
-✅ Total Number of Orders
-✅ Number of Pizza Types Sold
-✅ Average Price of Pizzas
-✅ Peak Hours of Sales
-✅ Sales by Day of the Week → Which day has the highest sales?
-✅ Top 5 Bestselling Pizzas
-✅ Monthly Sales Analysis → Identifying seasonal trends
-✅ Least Performing Pizza Types
+1. Total Revenue / Sales
+2. Total Quantity of Pizzas Sold
+3. Total Number of Orders
+4. Number of Pizza Types Sold
+5. Average Price of Pizzas
+6. Peak Hours of Sales
+7. Sales by Day of the Week → Which day has the highest sales?
+8. Top 5 Bestselling Pizzas
+9. Monthly Sales Analysis → Identifying seasonal trends
+10. Least Performing Pizza Types
